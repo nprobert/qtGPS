@@ -20,4 +20,4 @@ QtGPS.yaml for remote host running gpsd
 
 Hostname on command line
 Mouse over for hot tip on satellite
-
+Add way to restart if GPS receiver hangs up
