@@ -8,5 +8,5 @@ sudo apt-get -y --ignore-missing install gpsd gpsd-clients gpsbabel libgps-dev
 
 # Python addons
 echo "Python 3 Packages:"
-python3 -m pip install --upgrade pip
+python3 -m pip install --upgrade pip yaml
 python3 -m pip install --upgrade pyserial matplotlib numpy scipy gps gpxpy maidenhead virtualenv virtualenvwrapper
